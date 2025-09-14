@@ -1,0 +1,6 @@
+[submodule "original/be"]
+	path = original/be
+	url = git@github.com:MCBE-Speedrunning/Speedrunning-Rulebook.git
+[submodule "original/je"]
+	path = original/je
+	url = git@github.com:Minecraft-Java-Edition-Speedrunning/rules.git
