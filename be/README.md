@@ -16,7 +16,17 @@
 ### カテゴリ規則
 
 * ゲーム全体のカテゴリのカテゴリ個別の規則
+    - [Any%](./fullgame/any.md)
+    - [Any%グリッチなし](./fullgame/any-glitchless.md)
+    - [協力Any%](./fullgame/coop-any.md)
+    - [協力Any%グリッチなし](./fullgame/coop-any-glitchless.md)
+    - [100%](./fullgame/hundo.md)
 * 個別レベルカテゴリのカテゴリ個別の規則
 * カテゴリ拡張のカテゴリ個別の規則
 
 ### サブカテゴリ規則
+
+* [協力プレイ固有の規則](./coop/README.md)
+    - [一般規則](./coop/README.md#一般規則)
+    - [提出に関する規則](./coop/README.md#提出に関する規則)
+    - [証拠に関する規則](./coop/README.md#証拠に関する規則)
