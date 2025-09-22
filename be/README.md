@@ -21,6 +21,10 @@
     - [協力Any%](./fullgame/coop-any.md)
     - [協力Any%グリッチなし](./fullgame/coop-any-glitchless.md)
     - [100%](./fullgame/hundo.md)
+    - [全ボス討伐](./fullgame/bosses.md)
+    - [全ボス討伐グリッチなし](./fullgame/bosses-glitchless.md)
+    - [協力全ボス討伐](./fullgame/coop-bosses.md)
+    - [協力全ボス討伐グリッチなし](./fullgame/coop-bosses-glitchless.md)
 * 個別レベルカテゴリのカテゴリ個別の規則
 * カテゴリ拡張のカテゴリ個別の規則
 
