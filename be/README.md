@@ -26,6 +26,11 @@
     - [協力全ボス討伐](./fullgame/coop-bosses.md)
     - [協力全ボス討伐グリッチなし](./fullgame/coop-bosses-glitchless.md)
 * 個別レベルカテゴリのカテゴリ個別の規則
+    - [全色染料所有](./il/dyes.md)
+    - [全鉱石所有](./il/ores.md)
+    - [アイテム所有](./il/item.md)
+    - [全レコード所有](./il/discs.md)
+    - [ネザーリアクター](./il/nether-reactor.md)
 * カテゴリ拡張のカテゴリ個別の規則
 
 ### サブカテゴリ規則
