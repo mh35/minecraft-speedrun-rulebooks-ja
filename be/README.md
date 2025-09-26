@@ -51,7 +51,7 @@
 * [プラットフォーム固有の規則](./platform/README.md)
     - [PC](./platform/README.md#pc)
         + [Windows](./platform/README.md#windows)
-        + [Linux](./platform/README.md#linux)
+        + [Linux](./platform/README.md#linux--macos)
     - [モバイル](./platform/README.md#モバイル)
     - [ゲーム機](./platform/README.md#ゲーム機)
     - [仮想現実](./platform/README.md#仮想現実)
