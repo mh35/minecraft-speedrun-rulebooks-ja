@@ -32,6 +32,15 @@
     - [全レコード所有](./il/discs.md)
     - [ネザーリアクター](./il/nether-reactor.md)
 * カテゴリ拡張のカテゴリ個別の規則
+    - [1.16ベータ版ソロ](./catext/beta.md)
+    - [1.16ベータ版協力](./catext/beta-coop.md)
+    - [Any%ピースフル(アイテム作成)](./catext/any-peaceful-ic.md)
+    - [セットシードピースフルソロ](./catext/ssp.md)
+    - [セットシードピースフル協力プレイ](./catext/ssp-coop.md)
+    - [全防具セット](./catext/armor.md)
+    - [ネザー突入](./catext/nether.md)
+    - [全原木種類](./catext/woods.md)
+    - [全インベントリ](./catext/fullinv.md)
 
 ### サブカテゴリ規則
 
